@@ -16,3 +16,11 @@
 <img src="/screenshoot/app-dashboard/photo_2022-04-05 13.01.52.jpeg" width="260">&emsp;
 <img src="/screenshoot/app-dashboard/photo_2022-04-05 13.01.43.jpeg" width="260">&emsp;
 <img src="/screenshoot/app-dashboard/photo_2022-04-05 13.01.33.jpeg" width="260">
+
+
+## :camera_flash: App Finance
+<img src="/screenshoot/app-finance/photo_2022-04-06 13.06.25.jpeg" width="260">&emsp;
+<img src="/screenshoot/app-finance/photo_2022-04-06 13.06.42.jpeg" width="260">&emsp;
+<img src="/screenshoot/app-finance/photo_2022-04-06 13.05.58.jpeg" width="260">&emsp;
+<img src="/screenshoot/app-finance/photo_2022-04-06 13.05.52.jpeg" width="260">&emsp;
+<img src="/screenshoot/app-finance/photo_2022-04-06 13.06.10.jpeg" width="260">
